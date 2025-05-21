@@ -5,7 +5,7 @@ Open `vite.config.js` and set the base directory for your application. This sett
 
 ```js
 export default defineConfig({
-  base: '/vue-resume-template/',
+  // base: '/vue-resume-template/',
   plugins: [vue()],
 })
 ```
